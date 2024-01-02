@@ -1,15 +1,15 @@
 # Analysis-and-design-of-algorithms
 
-# Algorithm Resources
+## Algorithm Resources
 
-## Decrease and Conquer
+### Decrease and Conquer
 - [GeeksforGeeks - Decrease and Conquer](https://www.geeksforgeeks.org/decrease-and-conquer/)
 
-## Hoare's Partitioning Algorithm
+### Hoare's Partitioning Algorithm
 - [GeeksforGeeks - Hoare's Partition](https://iq.opengenus.org/hoare-partition/)
--[https://webpages.uidaho.edu/drbc/cs395/4_hoares.html#:~:text=Hoare%20Partition%20uses%20Two-directional,the%20scan%20from%20the%20right)
+- [University of Idaho - Hoare's Partition](https://webpages.uidaho.edu/drbc/cs395/4_hoares.html#:~:text=Hoare%20Partition%20uses%20Two-directional,the%20scan%20from%20the%20right)
+
 ## Book
 - **Title:** Introduction to the Design and Analysis of Algorithms
 - **Author:** Anany Levitin
 - **Edition:** 3rd Edition
-
