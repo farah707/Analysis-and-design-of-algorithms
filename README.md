@@ -7,7 +7,7 @@
 
 ## Hoare's Partitioning Algorithm
 - [GeeksforGeeks - Hoare's Partition](https://iq.opengenus.org/hoare-partition/)
-
+-[https://webpages.uidaho.edu/drbc/cs395/4_hoares.html#:~:text=Hoare%20Partition%20uses%20Two-directional,the%20scan%20from%20the%20right)
 ## Book
 - **Title:** Introduction to the Design and Analysis of Algorithms
 - **Author:** Anany Levitin
