@@ -1,4 +1,4 @@
-# Analysis-and-design-of-algorithms
+[# Analysis-and-design-of-algorithms
 
 ## Algorithm Resources
 
@@ -13,3 +13,4 @@
 - **Title:** Introduction to the Design and Analysis of Algorithms
 - **Author:** Anany Levitin
 - **Edition:** 3rd Edition
+](https://youtu.be/Kp27qsd1muA)https://youtu.be/Kp27qsd1muA
